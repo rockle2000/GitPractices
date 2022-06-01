@@ -1,2 +1,6 @@
 Rebase
+<<<<<<< HEAD
 Before Login
+=======
+Login
+>>>>>>> 2dc56f5 (add feature login)
