@@ -1,3 +1,4 @@
 Rebase
 Before Login
 Before Register
+Register
