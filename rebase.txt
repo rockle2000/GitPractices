@@ -2,3 +2,4 @@ Rebase
 Before Login
 Before Register
 Before Product 02-06-2022
+Before Logout 02-06-2022
